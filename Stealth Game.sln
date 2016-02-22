@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealth Game.CSharp.Plugins", "Stealth Game.CSharp.Plugins.csproj", "{F409891A-6886-AA44-C08D-E8FC6ED07BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealth Game.CSharp", "Stealth Game.CSharp.csproj", "{E9FAF240-DE0B-5E85-47AF-D67D5389EBA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealth Game.CSharp.Editor", "Stealth Game.CSharp.Editor.csproj", "{8E632073-9A9D-6B2D-05C1-BC5D318198AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F409891A-6886-AA44-C08D-E8FC6ED07BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F409891A-6886-AA44-C08D-E8FC6ED07BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F409891A-6886-AA44-C08D-E8FC6ED07BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F409891A-6886-AA44-C08D-E8FC6ED07BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9FAF240-DE0B-5E85-47AF-D67D5389EBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FAF240-DE0B-5E85-47AF-D67D5389EBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FAF240-DE0B-5E85-47AF-D67D5389EBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FAF240-DE0B-5E85-47AF-D67D5389EBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E632073-9A9D-6B2D-05C1-BC5D318198AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E632073-9A9D-6B2D-05C1-BC5D318198AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E632073-9A9D-6B2D-05C1-BC5D318198AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E632073-9A9D-6B2D-05C1-BC5D318198AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
